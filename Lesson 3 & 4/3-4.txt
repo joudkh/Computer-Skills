@@ -1,0 +1,24 @@
+Ideas:
+- arabic
+- fonts
+- colors
+- art
+- heading
+- allign
+- images
+- ref
+- footnote
+- tables
+- water marks
+- bookmark
+- word count
+- spelling
+- symbol
+- advance
+
+
+HW:
+1) Make your own CV.
+2) Design the best style for Class Rooms
+(using fonts - typography - colors - images - Boarders ....)
+3) Try to make this file as it is (in all of its details).
